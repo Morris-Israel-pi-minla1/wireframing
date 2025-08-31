@@ -29,11 +29,11 @@ Wireframes exist on a spectrum of detail, generally categorized as low-fidelity 
 
 ### Analysis of the Provided Wireframe
 
-The wireframe provided [here](https://s3.eu-west-3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/5/17730592985392.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAY4I2SKR3223TP3O2%2F20240523%2Feu-west-3%2Fs3%2Faws4_request&X-Amz-Date=20240523T150228Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=b04d1aa64161c94380790f488349257e3f89025078d103b413644f80164ed2e8) is a **Low-Fidelity (Lo-Fi) Wireframe**.
+The wireframe provided [here](hhttps://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) is a **High-Fidelity (Hi-Fi) Wireframe**.
 
 
 
 Here's why:
-* **Basic Shapes**: It uses simple rectangles and lines to represent elements like the header, images, and text blocks.
-* **Lack of Detail**: There are no specific fonts, colors, or real images. Content is represented by placeholder text ("lorem ipsum") and simple labels.
-* **Focus on Structure**: The primary goal of this wireframe is to show the layout and placement of elements, not to represent the final look and feel.
+* **Digital tool Frames**: It uses simple rectangles and lines to represent elements like the header, images, and text blocks.
+* **Contents**: There are specific fonts, colors, or real images. Content is represented by placeholder text ("lorem ipsum") and simple labels.
+* **Focus on Detailing**: The primary goal of this wireframe is to show the layout and placement of elements, and to represent the final look and feel.
