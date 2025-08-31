@@ -29,7 +29,7 @@ Wireframes exist on a spectrum of detail, generally categorized as low-fidelity 
 
 ### Analysis of the Provided Wireframe
 
-The wireframe provided [here](hhttps://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) is a **High-Fidelity (Hi-Fi) Wireframe**.
+The wireframe provided [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) is a **High-Fidelity (Hi-Fi) Wireframe**.
 
 
 
