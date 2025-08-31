@@ -2,7 +2,7 @@
 ----
 # An Introduction to Wireframing
 
-Wireframing is a crucial step in the user interface (UI) and user experience (UX) design process. A wireframe is a two-dimensional, skeletal outline of a webpage or app. It focuses on the allocation of space, the prioritization of content, functionality, and user flow, intentionally stripping away all visual design elements like colors and fonts.
+Wireframing is a crucial step in the user interface (UI) and user experience (UX) design process. A wireframe is a two-dimensional, skeletal outline of a webpage or app. It focuses on the allocation of space, the prioritization of content, functionality, and user flow.It visually represents the features defined during **[Requirement Analysis](https://github.com/Morris-Israel-pi-minla1/requirement-analysis)**.
 ### Why Wireframing
 
 Its primary purpose is to establish the basic structure of a page before the visual design and content are added. ✏️
@@ -36,4 +36,16 @@ The wireframe provided [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8
 Here's why:
 * **Digital tool Frames**: It uses simple rectangles and lines to represent elements like the header, images, and text blocks.
 * **Contents**: There are specific fonts, colors, or real images. Content is represented by placeholder text ("lorem ipsum") and simple labels.
-* **Focus on Detailing**: The primary goal of this wireframe is to show the layout and placement of elements, and to represent the final look and feel.
+* **Focus on Detailing**: The primary goal of this wireframe is to show the layout and placement of elements, components and to represent the final look and feel of desired project.
+## Wireframing Tools
+
+Many tools are available for creating wireframes, from simple drawing apps to powerful, collaborative design platforms. Popular choices include Sketch, Balsamiq, InVision, MockFlow, Figma and Adobe XD.
+
+A highly recommended tool is **Figma**. Figma is a web-based design tool that excels at collaborative work. Its key features include:
+* **Real-time Collaboration**: Multiple team members can work on the same file simultaneously. 🤝
+* **Component-Based Design**: You can create reusable UI elements (like buttons and menus) to ensure consistency.
+* **Prototyping**: You can link wireframes together to create interactive, clickable prototypes that simulate the user flow.
+* **Platform Agnostic**: It works in the browser on any operating system, making it accessible to everyone.
+
+---
+
